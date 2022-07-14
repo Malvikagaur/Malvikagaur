@@ -55,10 +55,11 @@
 
 ### 🔥 Interested in -
 
-<img height=150 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" />
-<img height=150 src="https://thumbs.gfycat.com/JampackedParallelCarp-max-1mb.gif" />
-<img height=150 src="https://cdn.dribbble.com/users/601750/screenshots/1623630/badminton.gif" />
-<img height=150 src="https://i.giphy.com/media/tqfS3mgQU28ko/giphy.webp" />
+<img height=140 src="https://user-images.githubusercontent.com/77121931/167949285-0531ce88-9c28-4d15-8694-4474ea9f2546.gif" />
+<img height=140 src="https://thumbs.gfycat.com/JampackedParallelCarp-max-1mb.gif" />
+<img height=140 src="https://cdn.dribbble.com/users/601750/screenshots/1623630/badminton.gif" />
+<img height=140 src="https://i.giphy.com/media/tqfS3mgQU28ko/giphy.webp" />
+<img height=140 src="https://thumbs.gfycat.com/YearlyLoneBarnowl-max-1mb.gif" />
 
 
 
