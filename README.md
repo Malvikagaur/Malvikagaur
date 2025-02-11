@@ -72,12 +72,7 @@
 - 🏸 Badminton<br>
 - 🎷 <A href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Good music</A><br>
 
-### 🎵 Hey Alexa, play - <br>
-<p>
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img height=90 src="https://spotify-github-profile.vercel.app/api/view?uid=314n65pje3gnshwfesolv7v3kz7y&cover_image=true&theme=natemoo-re&bar_color=53b14f&bar_color_cover=true">
-  </a>
-</p>
+
 
 <!---<p align="left">
   <a href="https://github.com/Platane/snk#readme">
